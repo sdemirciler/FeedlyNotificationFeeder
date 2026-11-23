@@ -1,0 +1,35 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Virtual environments
+.venv/
+
+# Local configuration
+.env
+.env.*
+
+# Personal feed data
+data/
+logs/
+*.log
+
+# IDE
+.vscode/
+.idea/
+
+# Private configuration
+src/feedlynotificationfeeder/config/config_local.py
+feedly.opml
